@@ -1,5 +1,3 @@
-#Istanbul Retail Customer Data Analysis
-
 ## Project overview
 This project analyzes retail transactions from 10 Istanbul shopping malls between 2021 and 2023. It compares transactions, products sold, and revenue by gender, age group, product category, and payment method.
 
